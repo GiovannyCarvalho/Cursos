@@ -1,0 +1,1 @@
+let navwrapper = new NavWrapperController();

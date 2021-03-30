@@ -1,0 +1,72 @@
+.footer-wrapper {
+    background-color: #11122b;
+    color: #cbcbcb;
+    font-family: "Ubuntu Condensed" sans-serif;
+    
+
+     /*Flexbox container*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    height: 400px;
+    margin-top: -4px; /*Negative margin*/
+}
+
+
+.footer-wrapper > .logo-footer img {
+    width: 180px;
+    height: 100%;
+    /*filter: brightness(50%);*/ /* Controle de Brilho*/
+    opacity: 0.5; /* Controle da opacidade*/
+}
+
+
+
+.footer-wrapper > .footer-phone-hours span {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1em;
+    letter-spacing: 2px;
+}
+
+.footer-wrapper > .footer-phone-hours > .hours {
+    font-size: 0.8em;
+    color: #cea135;
+    text-transform: uppercase;
+}
+
+/*
+Herdando alguns atributos de "links-wrapper" definidos do arquivo nav.css
+*/
+.footer-wrapper > .links-wrapper {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 400px;
+}
+
+.footer-wrapper > .social-media-icons-wrapper {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-wrapper > .social-media-icons-wrapper a {
+    font-size: 1.5em;
+    color: #cbcbcb;
+    transition: 0.5s;
+}
+
+.footer-wrapper > .social-media-icons-wrapper a:hover {
+    color: #cea135;
+}
+
+.footer-wrapper > .copyright-wrapper {
+    margin-bottom: 24px;
+    font-size: 0.7em;
+    color: #858585;
+    
+}
