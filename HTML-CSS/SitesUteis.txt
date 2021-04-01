@@ -1,6 +1,20 @@
+GitHub do Projeto
 https://github.com/jordanhudgens/digital-literacy-html-css/tree/master/images/backgrounds
+
+
+------
 
 https://fontawesome.com/
 
 https://fonts.google.com/
+
+------
+Images for websites
+
+https://unsplash.com/
+
+------
+Rubber duck debugging
+
+
 
