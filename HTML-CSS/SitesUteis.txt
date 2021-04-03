@@ -17,4 +17,10 @@ https://unsplash.com/
 Rubber duck debugging
 
 
+------
+https://github.com/GiovannyCarvalho
 
+
+-----
+Plugin do VSCode
+Live Server
